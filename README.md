@@ -42,4 +42,4 @@ Still to be done:
 
 ## Credit
 
-Created by [Matteo Vaccari](https://matteo.vaccari.name)
+Created by [Matteo Vaccari](https://matteo.vaccari.name).
